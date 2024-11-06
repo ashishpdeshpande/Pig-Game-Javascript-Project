@@ -20,8 +20,4 @@ Pig Game is a simple, fun dice game built with JavaScript, HTML, and CSS. The go
 - **CSS**: Styling for the game’s appearance.
 - **JavaScript**: Game logic, including rolling the dice, switching turns, and managing scores.
 
-## Installation
-Clone this repository and open the `index.html` file in your browser to start playing.
 
-```bash
-git clone https://github.com/your-username/pig-game.git
